@@ -3,7 +3,7 @@
  * Modifier_singular
  * Converts a variable to singular
  *
- * @author  Ramon Lpenta
+ * @author  Ramon Lapenta
  * @author  Ported from an Inflector class found in the Akelos Framework.
  */
 class Modifier_singular extends Modifier
